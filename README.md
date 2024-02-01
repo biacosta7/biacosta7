@@ -1,7 +1,10 @@
 ## Hi! I'm Beatriz Costa 😊
 
-I'm a computer science student who is passionate about constantly learning new ways of developing myself, planning and building new solutions to real-life problems with technology. 👩🏻‍💻</p>
+I'm a computer science student who is passionate about constantly learning new ways of developing myself, planning and building new solutions to real-life problems with technology. 👩🏻‍💻
 
+<!-- ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biacosta7&show_icons=true&theme=dracula) 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BeatrizCosta&theme=dracula&border_radius=4.5) -->
 
 ## ➤ Languages and Tools
 <div style="display: inline_block"><br>
