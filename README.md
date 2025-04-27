@@ -48,6 +48,6 @@
 <div style="flex: justify-between" align="center"> 
 
   ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biacosta7&show_icons=true&theme=nightowl) 
-  ![Beatriz's Top Langs](https://github-readme-stats.vercel.app/api?username=biacosta7&show_icons=true&theme=nightowl) 
+  <!-- ![Beatriz's Top Langs](https://github-readme-stats.vercel.app/api?username=biacosta7&show_icons=true&theme=nightowl) -->
 
 </div>
